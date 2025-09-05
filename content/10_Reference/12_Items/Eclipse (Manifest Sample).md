@@ -3,9 +3,12 @@ Created: 2025-09-05
 Reviewed:
 Type: Item
 Summary: Sample of an manifest magic item
+tags: sample
 ---
 ## Background
-Eclipse is a piece of the shattered moon, fallen from Corjian's skies. Arython recovered and attuned this piece of the moon during his ecological studies.
+Manifest magic items are pieces of equipment that grow with your character as they level up. These stages of growth are called Manifestations. The way your character acts will mark your manifest, altering the way its features develop. A manifest can take the form of any piece of equipment, such as a weapon, armor, or magical focus.
+
+Eclipse is a piece of the shattered moon, fallen from Corjian's skies. Arython recovered and attuned this piece of the moon as part of his armor during his ecological studies.
 ## Manifestations
 ### Dormant
 **Empowered**. Your Lightning Launcher and Thunder Gauntlets gain a +1 bonus to attack and damage rolls.

@@ -1,9 +1,9 @@
 ---
 Created: 2024-02-19
 Reviewed: 
-Campaign: Duunshar
 Type: Character
-aliases:
+Summary: Vishkanyan Investigator, Duunshar Campaign
+tags: sample
 ---
 [Google Sheet](https://docs.google.com/spreadsheets/d/1l8xGXZe795cdYg-E2f_oVGeaN5tnlwRn3kiF_UcvrgY/edit#gid=2027305465)
 # Statistics
