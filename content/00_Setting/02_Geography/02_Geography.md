@@ -5,6 +5,6 @@ Type: Waypoint
 Summary: Geography waypoint
 ---
 %% Begin Waypoint %%
-- [[The Capitol]]
+- [[Worldbuilding Primer]]
 
 %% End Waypoint %%
