@@ -5,6 +5,9 @@ Type: Character
 Summary: Vishkanyan Investigator, Duunshar Campaign
 tags: sample
 ---
+This is a backstory draft for a Pathfinder character. This backstory contains a lot of relationships and hooks to the existing world, in contrast to [[Machalite (Backstory Sample)]]. 
+
+---
 [Google Sheet](https://docs.google.com/spreadsheets/d/1l8xGXZe795cdYg-E2f_oVGeaN5tnlwRn3kiF_UcvrgY/edit#gid=2027305465)
 # Statistics
 ## General Statistics

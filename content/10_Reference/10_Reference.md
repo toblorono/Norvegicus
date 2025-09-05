@@ -8,6 +8,7 @@ This folder provides handout information for characters and items as we encounte
 
 %% Begin Waypoint %%
 - **11_Characters**
+	- [[Machalite (Backstory Sample)]]
 	- [[Shrasta (Backstory Sample)]]
 - **12_Items**
 	- [[Eclipse (Manifest Sample)]]
