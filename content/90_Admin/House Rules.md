@@ -12,9 +12,10 @@ Summary: Custom rules used at our table
 ## Exploration
 1. **Clocks**. Certain objectives are measured in clocks, and these objectives can range from short-term obstacles to long-term goals. When a clock is created, the DM tells you how many segments the clock has. By completing or failing objectives, a segment is filled in. When all segments are filled in, rewards or consequences ensue.
 ## Combat
-1. **Potion Consumption.** Potions can be consumed with an Action or Bonus Action. Potions can only be fed to another creature as an Action.
-2. **Summoned creatures**. Creatures summoned by other creatures share an initiative count. The player controlling these creatures decides the order these creatures take their turns, but a creature must finish its actions before another creature of that initiative count can begin taking actions.
-3. **Occupying mounted space**. Mounted combatants must choose one of three configurations when determining occupied space while on their mount. This affects how the rider is considered when measuring distance and AOE effects.
+1. **Potion Consumption**. Potions can be consumed with an Action or Bonus Action. Potions can only be fed to another creature as an Action. 
+2. **Recall Knowledge**. You can leverage your skills and background to learn information. As an Action or Bonus Action, you can make a skill check to learn useful information about environment around you. Once per initiative, you may use a Free Action for this check. The difficulty class is based on the type of action and skill you use.
+3. **Summoned creatures**. Creatures summoned by other creatures share an initiative count. The player controlling these creatures decides the order these creatures take their turns, but a creature must finish its actions before another creature of that initiative count can begin taking actions.
+4. **Occupying mounted space**. Mounted combatants must choose one of three configurations when determining occupied space while on their mount. This affects how the rider is considered when measuring distance and AOE effects.
 	1. Literal. The rider is considered exactly where their token is.
 	2. Centralized. The rider is considered at the center of their mount. In the case of an even-sized mount, the rider is in the four tiles at the intersection of the mount's center.
 	3. Blob. The rider is considered in all of the mount's space.
