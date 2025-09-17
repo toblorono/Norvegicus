@@ -10,3 +10,14 @@ To begin, I recommend the following pages:
 3. [[Geography]]: Areas of interest in our world. Map image in progress.
 4. [[House Rules]]: Additional rules for your consideration during character creation.
 5. [[10_Reference]]: Samples that may help provide context
+
+## Change Log
+### 2025.09.17
+Created
+- [[Region Map.png]]
+
+Updated
+- [[Geography]]: Added region map
+- [[index]]: Added change log section
+### 2025.09.05
+- Generated first version of the resource site.
