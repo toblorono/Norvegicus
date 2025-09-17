@@ -9,6 +9,9 @@ The region we inhabit is loosely referred to as *Midrealm*. Major settlements of
 
 Major landforms consist of the *Hallow Morena* forest and the *Great Grand* lake. Beyond Midrealm are tales—and the occasional traveler—from The Expanse and The Shattered Pearls.
 
+Below is a region map for Midrealm. Cities are shown with circle markers; major cities are in white text, and minor cities are in black text. Landmarks have no circle markers and are in black text. Tan shading shows myrk density. More color saturation denotes higher myrk density.
+![[Region Map.png]]
+
 > [!example] Entry Headers
 > **Location**: Anchoring environment of surrounding area
 **Myrk Density**: General threat of myrk in surrounding area
